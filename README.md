@@ -8,7 +8,7 @@ I transform messy data into clean, structured insights and dashboards that help 
 
 ## 🔥 Featured Projects
 
-### 📊 [Student Performance Dashboard](YOUR_LINK_HERE)
+### 📊 [Student Performance Dashboard](https://github.com/aniruddhapal/student-performance-analytics-dashboard)
 Built an interactive dashboard to analyze student performance trends and identify low-performing students for early intervention.
 
 ---
