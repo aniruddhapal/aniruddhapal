@@ -9,7 +9,7 @@ With 15+ years of experience working with real-world data, I bring both domain u
 
 ## 🔥 Featured Projects
 
-### 📊 [Telangana State Growth & Sector Analysis Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDI1NzM0MDEtMDY1OS00YmI3LTkwYjMtMmM5Mjg5NDNiZDkwIiwidCI6ImRjNmNlMzU0LTVhZTYtNDlmNy05Njk4LWMyZGVjMTg3NDc1ZSJ9&pageName=ReportSection](https://github.com/aniruddhapal/Telangana-State-Growth-Sector-Analysis-Dashboard)
+### 📊 [Telangana State Growth & Sector Analysis Dashboard](https://github.com/aniruddhapal/Telangana-State-Growth-Sector-Analysis-Dashboard)
 
 Analyzed large-scale public datasets from the Telangana Government to evaluate growth trends across multiple sectors.
 
