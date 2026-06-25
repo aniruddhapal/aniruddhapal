@@ -24,7 +24,7 @@ Built an interactive dashboard to help decision-makers:
 
 ---
 
-### 📊 [Student Performance Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGFhZWE3OWItZWI3MS00ZDM2LTg4MDktZDM1YmQ0YmQzZjU2IiwidCI6ImRjNmNlMzU0LTVhZTYtNDlmNy05Njk4LWMyZGVjMTg3NDc1ZSJ9)
+### 📊 [Student Performance Dashboard](https://github.com/aniruddhapal/student-performance-analytics-dashboard)
 
 Developed an interactive dashboard to analyze student performance trends and identify low-performing students for early intervention.
 
